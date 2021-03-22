@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "omg endline"
+npm install -g @angular/cli
