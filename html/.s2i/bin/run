@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Nginx Run Like Charm"
+nginx -g daemon off;
