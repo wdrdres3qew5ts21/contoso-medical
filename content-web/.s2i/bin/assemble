@@ -1,5 +1,2 @@
 #!/bin/bash
-
-/usr/libexec/s2i/assemble
-
-npm install -g @angular/cli
+echo lnwza""
