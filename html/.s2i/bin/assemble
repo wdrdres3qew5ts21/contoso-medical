@@ -1,2 +1,5 @@
 #!/bin/bash
-ls -alh /tmp
+echo "=== Copy Content From Temp directory to Nginx ==="
+cp -R /tmp/src/* /usr/share/nginx/html/
+echo "=== Automatic Work !!! ==="
+
