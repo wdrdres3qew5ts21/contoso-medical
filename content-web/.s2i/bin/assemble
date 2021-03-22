@@ -2,5 +2,4 @@
 npm install -g @angular/cli
 /usr/libexec/s2i/assemble
 npm run build
-pwd
-ls
+/usr/libexec/s2i/save-artifacts
